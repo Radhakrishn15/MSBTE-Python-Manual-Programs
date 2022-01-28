@@ -1,0 +1,5 @@
+f=open("sample.txt","w")
+f.write("Sakshi is not available\n")
+f.write("you are not prime\n")
+f.close()
+print("data save")
